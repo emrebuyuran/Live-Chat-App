@@ -1,0 +1,25 @@
+{
+  "name": "Live-Chat-App",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start":"nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emrebuyuran/Live-Chat-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emrebuyuran/Live-Chat-App/issues"
+  },
+  "homepage": "https://github.com/emrebuyuran/Live-Chat-App#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.0"
+  }
+}
